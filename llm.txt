@@ -1,0 +1,32 @@
+# ThunderStudy - Open Educational Study Material & PDF Library
+> ThunderStudy provides free high-quality study materials, official NCERT textbooks, topper handwritten notes, previous years' question papers (PYQs), and comprehensive formula handbooks for school education and national competitive examinations in India.
+
+## Core Examination & Subject Portals
+- [Home & Catalog](https://thunderstudy.indevs.in/): Central repository and exam directory.
+- [English Portal](https://thunderstudy.indevs.in/english.html): 170+ English grammar, error spotting, vocabulary, reading comprehension passages, and topper answer sheets.
+- [Science Chapterwise Notes](https://thunderstudy.indevs.in/science/chapterwise-notes.html): 110+ comprehensive physics, chemistry, biology, and earth science notes.
+- [Banking Examination Hub](https://thunderstudy.indevs.in/banking/): IBPS PO, IBPS RRB, SBI PO, RBI Assistant, and LIC preparation materials.
+- [NCERT Books & Solutions](https://thunderstudy.indevs.in/ncert/): Official NEP textbooks, exemplar problems, and solutions for Classes 6 to 12.
+- [NDA / Defense Exam Hub](https://thunderstudy.indevs.in/nda/): Mathematics, GAT English, General Science, and Defense PYQs.
+- [SSC & Staff Selection](https://thunderstudy.indevs.in/ssc/): SSC CGL, CHSL, MTS, CPO, and Stenographer notes and PYQs.
+- [CLAT & Law Entrance](https://thunderstudy.indevs.in/clat/): Legal reasoning, English comprehension, and constitutional law.
+- [CAT & MBA Entrance](https://thunderstudy.indevs.in/cat/): Quantitative aptitude, VARC reading passages, and DILR modules.
+- [UPSC Civil Services](https://thunderstudy.indevs.in/upsc/): General studies foundation notes, topper strategies, and NCERT alignments.
+- [TET & Teaching Exams](https://thunderstudy.indevs.in/tet/): Child Development and Pedagogy (CDP) notes and state TET materials.
+- [State Exams (MP & State Services)](https://thunderstudy.indevs.in/state/): MP GK, state board guides, and regional exam sets.
+- [CA Foundation & Intermediate](https://thunderstudy.indevs.in/ca/): Accounting standards, corporate law, and taxation notes.
+
+## High-Speed CDN Storage Endpoints
+- `https://ncert.thunderstudypdf.indevs.in/`: Official NCERT textbooks, chapter PDFs, and complete subject ZIP archives.
+- `https://english.thunderstudypdf.indevs.in/`: High-yield English notes, error-spotting rules, and board answers.
+- `https://banking.thunderstudypdf.indevs.in/`: Banking formulas, quantitative aptitude, and reasoning handbooks.
+- `https://nda.thunderstudypdf.indevs.in/`: National Defence Academy study packages and formula sheets.
+- `https://ssc.thunderstudypdf.indevs.in/`: SSC previous years' papers and general awareness notes.
+- `https://pdfs.thunderstudypdf.indevs.in/`: Science chapter notes, formulas, and general subject modules.
+- `https://state.thunderstudypdf.indevs.in/`: State board and state public service commission materials.
+- `https://pdf.thunderstudypdf.indevs.in/reader.html`: Interactive web-based flipbook and PDF reader.
+
+## API & Sitemaps
+- [Sitemap Index](https://thunderstudy.indevs.in/sitemap.xml): Complete listing of all web pages and download endpoints.
+- [PDF CDN Sitemap](https://thunderstudy.indevs.in/sitemap-pdf.xml): Index of all 2,000+ PDF files hosted on CDN servers.
+- [Robots Policy](https://thunderstudy.indevs.in/robots.txt): Crawler rules and sitemap declarations.
