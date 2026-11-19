@@ -24,7 +24,7 @@
 - `https://ssc.thunderstudypdf.indevs.in/`: SSC previous years' papers and general awareness notes.
 - `https://pdfs.thunderstudypdf.indevs.in/`: Science chapter notes, formulas, and general subject modules.
 - `https://state.thunderstudypdf.indevs.in/`: State board and state public service commission materials.
-- `https://pdf.thunderstudypdf.indevs.in/reader.html`: Interactive web-based flipbook and PDF reader.
+- `https://thunderstudypdf.indevs.in/reader.html`: Interactive web-based flipbook and PDF reader.
 
 ## API & Sitemaps
 - [Sitemap Index](https://thunderstudy.indevs.in/sitemap.xml): Complete listing of all web pages and download endpoints.
